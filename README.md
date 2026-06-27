@@ -4,8 +4,7 @@
 
 Built to show the core of RAG without a framework: document chunking, TF-IDF retrieval, grounded generation, and source citations.
 
-<!-- TODO: record a 20–30s demo of app.py, save as docs_demo/demo.gif, and uncomment: -->
-<!-- ![Demo](docs_demo/demo.gif) -->
+![Demo](docs_demo/demo.gif)
 
 ---
 
